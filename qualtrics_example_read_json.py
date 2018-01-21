@@ -31,6 +31,7 @@ if __name__ == '__main__':
     survey_id = ' ---- some id ---- ' # this is a survey identifier, comes from user profile and survey
     survey_params = qualtrics_parameters(user=qualtrics_user, token=qualtrics_token, survey_id=survey_id)
     data = get_qualtrics_JSON(url=qualtrics_url, params=survey_params)
-
+    
+    # write it to a file, why not?
     with open('data.json', 'w') as fp:
         json.dump(data, fp)
