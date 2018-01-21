@@ -8,8 +8,9 @@ But if you got this far into Googling up this site, you are capable of reading t
 
 ## Do not go gentle into that good Night
 
-Dylan Thomas
+*Dylan Thomas*
 
+<dl><pre>
 Do not go gentle into that good night,
 Old age should burn and rave at close of day;
 Rage, rage against the dying of the light.
@@ -29,3 +30,5 @@ Do not go gentle into that good night.
 Grave men, near death, who see with blinding sight
 Blind eyes could blaze like meteors and be gay,
 Rage, rage against the dying of the light.
+</pre>
+</dl>
