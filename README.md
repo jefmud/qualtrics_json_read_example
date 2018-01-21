@@ -5,6 +5,7 @@ There are a number of secrets you will have to get from your Qualtrics account a
 
 But if you got this far into Googling up this site, you are capable of reading the documentation at Qualtrics.
 
+And here is some Dylan Thomas, for no good reason other than it's a favorite!
 
 ## Do not go gentle into that good Night
 
